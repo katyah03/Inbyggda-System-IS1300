@@ -1,2 +1,2 @@
 # Inbyggda-System-IS1300
-Kursen innefattade ett projekt där en traffikorsning simulerades på en breadboard. 
+Kursen innefattade ett projekt där en traffikorsning simulerades på ett breadboard. 
